@@ -1,6 +1,6 @@
 ## Snake Game in React
 
-This is my first React project.
+This is my first React project. Check out my Snake game at [https://mrlucasalmeida.github.io/SnakeGame-React/](https://mrlucasalmeida.github.io/SnakeGame-React/).
 
 ## Available Scripts
 
