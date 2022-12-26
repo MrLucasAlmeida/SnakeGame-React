@@ -30,3 +30,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Dependencies
 Install [Node JS](https://nodejs.org/en/download/)
 
+### What I Learned
+* Build a time based game.
+* Create a React JS app.
+* Deploy React app to Github Pages.
+
